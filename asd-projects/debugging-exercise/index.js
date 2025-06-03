@@ -101,7 +101,7 @@ function update(){}
         // redraw the circle on the screen after it moves
         updateCircleOnScreen(circle);
     }
-}
+
 
 //////////////////////////
 // update helper functions
